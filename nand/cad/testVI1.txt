@@ -1,0 +1,24 @@
+the task is to type 12 lines or 2 paragraphs, and to copy paste using cp command and make a copy of it...
+
+the task is to type 10 lines or 2 paragraphs, and to copy paste using cp command and make a copy of it...
+
+ok the copy commmand works fine, now how to copy two lines
+it is using nyy command, so command testing
+ok the copy commmand works fine, now how to copy two lines
+
+it is using nyy command, so command testing
+
+ok test successfull!
+
+deleting a character using xxxx -ok works!
+
+lastly to work on navigation.
+
+1. o for new line from insert mode
+2. $ for cursor at end of line
+3. (,) for moving across lines.
+4. well 3 could be used to move across the entire code by long press.
+
+
+use ls -a to show hidden files
+
